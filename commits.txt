@@ -1,0 +1,23 @@
+commit a66ec5a14c23dc48158a1b016f4d86d692ff5380
+Author: Victor Mendoza <mvictorm@gmail.com>
+Date:   Tue Sep 25 10:11:20 2018 -0400
+
+    commit cambio en index y estilos gradientes
+
+commit 5d2688316f8e0e410fb4efbbadd043843c1be654
+Author: Victor Mendoza <mvictorm@gmail.com>
+Date:   Tue Sep 25 09:49:32 2018 -0400
+
+    Tercer commit cambio en css
+
+commit d2f70c553ca89a7da2fdaace65f70993d2c280d1
+Author: Victor Mendoza <mvictorm@gmail.com>
+Date:   Tue Sep 25 09:47:37 2018 -0400
+
+    Segundo commit parrafo y titulo
+
+commit 55b2edf462d1b37c414b2e3ca0e876f61dca64b4
+Author: Victor Mendoza <mvictorm@gmail.com>
+Date:   Tue Sep 25 09:45:39 2018 -0400
+
+    Inicio de commits
