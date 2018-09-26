@@ -6,6 +6,11 @@ body{
 	text-align: center;
 }
 
+h2{
+	text-indent: left;
+	font-style: bold;
+}
+
 .ptest{
 	background: #CCCCB2;  /* fallback for old browsers */
 	background: -webkit-linear-gradient(to right, #757519, #CCCCB2);  /* Chrome 10-25, Safari 5.1-6 */
